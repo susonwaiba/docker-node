@@ -49,7 +49,7 @@ services:
 ```
 
 
-## Updated ?
+## Updates ?
 - Ping me with merge request :D
 
 ## Nothing
